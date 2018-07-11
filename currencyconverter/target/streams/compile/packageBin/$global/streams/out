@@ -1,0 +1,21 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/knoldus/currencyconverter/target/scala-2.12/currencyconverter_2.12-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/knoldus[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/currencyconverter/target/scala-2.12/classes/com/knoldus[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/knoldus/radhika[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/currencyconverter/target/scala-2.12/classes/com/knoldus/radhika[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/knoldus/radhika/Hkdollar.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/currencyconverter/target/scala-2.12/classes/com/knoldus/radhika/Hkdollar.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/knoldus/radhika/Dirham.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/currencyconverter/target/scala-2.12/classes/com/knoldus/radhika/Dirham.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/knoldus/radhika/Usdollar.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/currencyconverter/target/scala-2.12/classes/com/knoldus/radhika/Usdollar.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/knoldus/radhika/Converter.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/currencyconverter/target/scala-2.12/classes/com/knoldus/radhika/Converter.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/knoldus/radhika/Euro.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/currencyconverter/target/scala-2.12/classes/com/knoldus/radhika/Euro.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/currencyconverter/target/scala-2.12/classes/com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/knoldus/radhika/INR.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/currencyconverter/target/scala-2.12/classes/com/knoldus/radhika/INR.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
